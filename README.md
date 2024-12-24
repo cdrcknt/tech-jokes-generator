@@ -38,9 +38,6 @@ A modern web application that delivers programming and tech-related jokes with s
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## API
-
-This project uses the [JokeAPI](https://jokeapi.dev/) to fetch programming and tech-related jokes.
 
 ## Developers
 
