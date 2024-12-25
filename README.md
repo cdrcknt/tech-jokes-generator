@@ -1,4 +1,4 @@
-# Tech Joke Generator
+# Tech Jokes Generator
 
 A modern web application that delivers programming and tech-related jokes with style. Built with React, TypeScript, and Tailwind CSS.
 
@@ -42,8 +42,6 @@ A modern web application that delivers programming and tech-related jokes with s
 ## Developers
 
 Cedric Kent Centeno
-- Email: cdrcknt@gmail.com
-- GitHub: [@cdrcknt](https://github.com/cdrcknt)
 
 ## License
 
